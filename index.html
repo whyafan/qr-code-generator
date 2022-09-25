@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QR Code</title>
+
+    <link rel="stylesheet" href="/qr-code/styles.css" />
+    <link rel="stylesheet" href="/qr-code/queries.css" />
+
+    <script
+      defer
+      src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"
+    ></script>
+    <script
+      defer
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"
+    ></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="container-head">
+        <h1 class="container-heading">Generate a QR Code</h1>
+        <p class="contaner-text">
+          Enter a link or URL below to generate a QR code for that link. One can
+          yield endless images.
+        </p>
+        <div class="input-box">
+          <input type="url" class="qr-input" />
+          <button type="submit" class="btn">Generate</button>
+        </div>
+      </div>
+      <img
+        class="qr-link"
+        src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=afankhan.com"
+        alt="QR Code-"
+      />
+    </div>
+
+    <script src="/qr-code/script.js"></script>
+  </body>
+</html>

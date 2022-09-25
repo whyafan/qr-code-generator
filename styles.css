@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-image: url("/qr-code/4.png");
+  background-size: cover;
+  font-family: "Space Grotesk", sans-serif;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 43rem 16rem;
+  gap: 12.6rem;
+  background-color: #fff;
+  padding: 4.8rem;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.5rem;
+}
+
+.container-heading {
+  font-size: 2.8rem;
+  font-weight: 500;
+  margin-bottom: 1.2rem;
+}
+
+.contaner-text {
+  font-size: 1.6rem;
+  margin-bottom: 4.8rem;
+}
+
+.qr-link {
+  width: 16rem;
+  height: 16rem;
+}
+
+.input-box {
+  display: flex;
+  gap: 0.8rem;
+}
+
+.qr-input {
+  width: 229px;
+  height: 40px;
+  border-radius: 0.5rem;
+  background-color: #e6e6e6;
+  padding-left: 1.2rem;
+
+  border: none;
+  font-family: inherit;
+}
+
+.qr-link {
+  padding: 1rem;
+  border-radius: 0.5rem;
+
+  background-color: #fff;
+}
+
+.btn {
+  font-family: inherit;
+  padding: 1rem 2.6rem;
+  border-radius: 0.5rem;
+
+  border: none;
+  background-color: #3664f4;
+  color: #fff;
+
+  transition: all 0.4s;
+}
+
+.btn:hover {
+  background-color: #315adc;
+}
