@@ -34,6 +34,10 @@
 }
 
 @media (max-width: 36rem) {
+  body {
+    background-position: center;
+  }
+
   .container {
     grid-template-columns: 23rem;
     justify-content: center;
