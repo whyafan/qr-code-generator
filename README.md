@@ -22,11 +22,11 @@ I used the QRC Generator API by [QOQR](https://goqr.me/api/).
 
 ## ⏳ The Process
 
-1. I started by creating the website design on Figma (I'm a UIUX designer).
-2. I finished the design and began building the website from scratch using HTML and CSS.
-3. Once I finalised the front end of the website, I started playing around with JavaScript and incorporated the API using basic JS knowledge. At this point, I connected the API successfully.
-4. After that, I created a GitHub Repository for the website and connected Netlify to the repo.
-5. Lastly, I hosted the website on my subdomain (for easier access) and netlify.
+1. I started by creating the website design on [Figma](https://www.figma.com/) (I'm a UIUX designer).
+2. I finished the design and began building the website from scratch using [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS).
+3. Once I finalised the front end of the website, I started playing around with [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and incorporated the API using basic JS knowledge. At this point, I connected the API successfully.
+4. After that, I created a GitHub Repository for the website and connected [Netlify](https://www.netlify.com/) to the repo.
+5. Lastly, I hosted the website on my [subdomain](https://qr-code.afankhan.com) (for easier access) and netlify.
 
 ## 🖥️ How can I access the generator?
 
