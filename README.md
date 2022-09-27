@@ -2,6 +2,8 @@
 
 I created a QR Code generator using the following tools and APIs. One can access the website at https://afankhan.com/qr-code.
 
+<div display = "flex">
+
 ## ⚒️ Tools & Languages
 
 <p display = "flex">
@@ -19,6 +21,8 @@ I created a QR Code generator using the following tools and APIs. One can access
 ## 🌐 APIs
 
 I used the QRC Generator API by [QOQR](https://goqr.me/api/).
+
+</div>
 
 ## The Process
 
