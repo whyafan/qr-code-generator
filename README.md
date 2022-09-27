@@ -4,8 +4,9 @@ I created a QR Code generator using the following tools and APIs. One can access
 
 ## Tools
 
-![HTML](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg)
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width= "20" height= "20">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width= "30" height= "30px">
+
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width= "30" height= "30px">
 
 ## APIs
 
