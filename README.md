@@ -1,6 +1,6 @@
 # 🏁 QR-Code Generator
 
-I created a QR Code generator using the following tools and APIs. One can access the website at https://afankhan.com/qr-code.
+I created a QR Code generator using the following tools and APIs. You can access the website at https://afankhan.com/qr-code.
 
 ## ⚒️ Tools & Languages
 
@@ -20,10 +20,14 @@ I created a QR Code generator using the following tools and APIs. One can access
 
 I used the QRC Generator API by [QOQR](https://goqr.me/api/).
 
-## The Process
+## ⏳ The Process
 
-1. I started by creating the design of the website on Figma (I'm a UIUX designer).
-2. I completed the design and started building the website from scratch using HTML and CSS.
-3. Once I completed the front-end of the website, I started playing around with JavaScript and integrated the API using basic JS knowledge.
+1. I started by creating the website design on Figma (I'm a UIUX designer).
+2. I finished the design and began building the website from scratch using HTML and CSS.
+3. Once I finalised the front end of the website, I started playing around with JavaScript and incorporated the API using basic JS knowledge. At this point, I connected the API successfully.
+4. After that, I created a GitHub Repository for the website and connected Netlify to the repo.
+5. Lastly, I hosted the website on my subdomain (for easier access) and netlify.
 
-## How can I use it?
+## 🖥️ How can I access the generator?
+
+You can use the generator at https://afankhan.com/qr-code.
