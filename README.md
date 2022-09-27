@@ -31,3 +31,5 @@ I used the QRC Generator API by [QOQR](https://goqr.me/api/).
 ## 🖥️ How can I access the generator?
 
 You can use the generator at https://afankhan.com/qr-code.
+
+- © Afan Khan Group
