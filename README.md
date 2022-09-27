@@ -8,9 +8,9 @@ I created a QR Code generator using the following tools and APIs. One can access
 
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width= "30" height= "30px">
 &nbsp;
-&nbsp;
-&nbsp;
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width= "30" height= "30px">
+&nbsp;
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" width= "30" height= "30px">
 
 </p>
 
