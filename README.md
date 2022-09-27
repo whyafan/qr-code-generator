@@ -2,8 +2,6 @@
 
 I created a QR Code generator using the following tools and APIs. One can access the website at https://afankhan.com/qr-code.
 
-<div display = "flex">
-
 ## ⚒️ Tools & Languages
 
 <p display = "flex">
@@ -22,10 +20,10 @@ I created a QR Code generator using the following tools and APIs. One can access
 
 I used the QRC Generator API by [QOQR](https://goqr.me/api/).
 
-</div>
-
 ## The Process
 
-### I started by creating the design of the website on Figma.
+1. I started by creating the design of the website on Figma (I'm a UIUX designer).
+2. I completed the design and started building the website from scratch using HTML and CSS.
+3. Once I completed the front-end of the website, I started playing around with JavaScript and integrated the API using basic JS knowledge.
 
 ## How can I use it?
