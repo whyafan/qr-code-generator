@@ -4,7 +4,7 @@ I created a QR Code generator using the following tools and APIs. One can access
 
 ## Tools & Languages
 
-<p display = "flex">
+<p display = "flex" gap = "5">
 
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width= "30" height= "30px">
 
